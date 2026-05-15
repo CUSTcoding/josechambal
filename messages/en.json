@@ -1,0 +1,22 @@
+{
+    "home":{
+        "welcome": "Welcome to my portfolio! I am José Chambal, a political scientist passionate about academic leadership. Explore my projects, publications, and experience to learn more about my journey and contributions in the field of political science."
+    },
+    "menu": {
+        "home":"Home",
+        "about": "About",
+        "blog": "Blog",
+        "services": "Services",
+        "contact": "Contacts"
+    },
+    "copyright": {
+        "copyright":"All rights reserved."
+    },
+    "copy": {
+        "phone": "Phone number copied successfully!",
+        "email": "Email copied successfully!"
+    },
+    "currentLang":{
+        "lang":"EN"
+    }
+}

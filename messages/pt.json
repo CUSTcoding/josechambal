@@ -1,0 +1,22 @@
+{
+    "home":{
+        "welcome": "Bem-vindo ao meu portfólio! Sou José Chambal, um cientista político apaixonado por liderança académica. Explore meus projetos, publicações e experiência para conhecer mais sobre minha trajetória e contribuições na área de ciência política."
+    },
+    "menu": {
+        "home":"Início",
+        "about": "Sobre",
+        "blog": "Blog",
+        "services": "Serviços",
+        "contact": "Contatos"
+    },
+    "copyright": {
+        "copyright":"Todos os direitos reservados."
+    },
+    "copy": {
+        "phone": "Número de telefone copiado com sucesso!",
+        "email": "Email copiado com sucesso!"
+    },
+    "currentLang": {
+        "lang": "PT"
+    }
+}
